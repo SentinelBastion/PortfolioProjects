@@ -1,3 +1,6 @@
+
+
+
 SELECT *
 FROM PortfolioProject.dbo.CovidDeaths
 ORDER BY 3,4
